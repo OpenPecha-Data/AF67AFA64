@@ -1,0 +1,22 @@
+id: AF67AFA64
+title: Toh_52-The_Indivisible_Nature-v1
+type: translation
+pechas:
+- IB48A48AA
+- ID79CFED1
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-04T08:54:59.295Z'
+  creationid: esukhia
+  eft-text-id: UT22084-040-003
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_52-The_Indivisible_Nature-v1
+alignment_to_base:
+  IB48A48AA/EB4D: BF10
+  ID79CFED1/1B7F: BF10
